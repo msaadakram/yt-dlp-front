@@ -1,6 +1,3 @@
-import { RouterProvider } from "react-router";
-import { router } from "./routes";
-
-export default function App() {
-  return <RouterProvider router={router} />;
-}
+// This file is intentionally left as a Next.js redirect stub.
+// The real app entry is src/app/layout.tsx + src/app/page.tsx
+export {};
